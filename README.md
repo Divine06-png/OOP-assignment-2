@@ -1,3 +1,7 @@
+Name: Divine phillip
+Reg #: 2420011
+
+
 This assignment demonstrates key concepts in C programming, including arrays, pointers, pointer arithmetic, and function pointers.
 
 * Arrays and Pointers
